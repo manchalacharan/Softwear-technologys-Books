@@ -1,0 +1,59 @@
+Manual Testing Important Questions:
+--------------------------------------
+1)Explain about STLC? STLC phases
+2)Which methodology you are using in company?
+	A)Agile methodology 
+	2.1)What are scrum ceremonies? 
+3)Tell me negative testcase on 
+	select a product from application and add to cart 
+	that product. in between these , tell me only negative
+	testcases.
+	3.1) tell me testcases on wallclock 
+	3.2) write testcases on atm operation
+	
+4)Differences between functional and non-functional testing?
+5)Differences between re and regression testing and differences
+	between smoke and sanity testing?
+6)what is performance testing and monkey testing?
+7)you found a defect but it is not reproducing at dev environment
+	then how will you handle that situation?
+8)what are the chanllenges you faced in your project?
+9)defect life cycle?
+10)tell me one senario on high seveirty and high priority?
+	and high priority and low severity?
+11) what is jira and how to create a defect in jira?
+	11.1)what is the workflow of jira?
+	11.2)how to perform test management activities in Jira? [zephyr plugin]
+
+12) black box design techniques?
+13)what is exit criteria?
+14)what is test plan and components of testplan and test stratagy?
+15)what is test scenario and test case?
+16)what are the roles and responsibilities of software testengineer?
+17)what is positive and negative testing/
+18)difference between whitebox, blackbox, greybox testing?
+19)difference between alpha and beta testing?
+20)difference between unit and integration testing?
+21)what is UAT?
+22)you went unprepared and release is tomorrow, then how will you
+	handle this situation?
+23)difference between verification and validation?
+24)what are the drawbacks of manual testing?
+25) when to prefer manual testing and automation testing?
+	or
+	how will you select testcases for automation?
+26)which type of testing should conduct first?
+
+27)prepare testcases on login functionality?
+28)you have a parentmeeting in school to ur kid, and at the same 
+time you have meeting with client, and ur patner also not available
+then how you will tackle the situation? 
+29)
+
+
+
+
+
+
+
+
